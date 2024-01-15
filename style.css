@@ -65,7 +65,6 @@ body {
   }
   
   .range-input::-webkit-slider-thumb {
-    display: none;
     -webkit-appearance: none;
     appearance: none; 
     height: 0px;
